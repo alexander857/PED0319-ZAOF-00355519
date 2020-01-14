@@ -13,3 +13,13 @@
 *Como reemplazar un caracter por otro en una frase en el ejercicio 2
 *Me costo bastante lograr detectar si una cadena es solo de string, de numeros o de ambos
 *Tuve un poco de dificultad con la funcion que tenia que buscar los numeros primos entre 1 y 100
+
+## Laboratorio extra
+
+### Observaciones al instructor
+*Estuvo bien que se explicara sobre como hacer los repositorios en github mas claramente
+*Esta muy bien hacer lo de realizar un ejercicio en el laboratorio y que vaya siendo explicado cada funcion o lo que se haga en el
+*Y tambien estuvo muy bien un labo extra para seguir practicando funciones y aclarando dudas.
+
+### Dificultades en ejercicios de tarea
+*Solo tube un poco de dificultad con subir los ejercicios a github en las carpetas que tocaba en Workspace
