@@ -23,3 +23,13 @@
 
 ### Dificultades en ejercicios de tarea
 *Solo tube un poco de dificultad con subir los ejercicios a github en las carpetas que tocaba en Workspace
+
+## Laboratorio 02
+
+### Observaciones al instructor
+*Esplico de una manera mas clara lo que son arreglos y matrices
+*Se dio a explicar bien en las nuevas funciones a utilizar en el los codigos
+*Esta bien que repase un poco de lo visto en la clase
+
+### Dificultades en ejercicios de tarea
+*Tuve un poco de dificultad en el momento de pasarle una estructura a una funcion
