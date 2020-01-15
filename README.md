@@ -33,3 +33,6 @@
 
 ### Dificultades en ejercicios de tarea
 *Tuve un poco de dificultad en el momento de pasarle una estructura a una funcion
+*Se me ha dificultado bastante guardar un nombre completo
+*Se me dificulta cuando hay que pasarle una estruct a una funcion 
+
