@@ -28,7 +28,7 @@ int main(){
 	cin.ignore();
 	
 	//pidiendo datos de los vendedores
-//	do{
+	do{
 		
 		cout << "\nINGRESE DATOS DE UN VENDEDOR\n" << endl;
 		
@@ -39,9 +39,11 @@ int main(){
 		cout << "Salario mensual: "; cin >> vendor.salary;
 		
 		cout << "Anos laborados: "; cin >> vendor.YearHired;
-
+        cin.ignore();
 		
-//	}while(NumberVendor > 0);
+        NumberVendor--;
+
+	}while(NumberVendor > 0);
 	
 
 	
