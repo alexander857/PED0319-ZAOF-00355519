@@ -36,3 +36,10 @@
 *Se me ha dificultado bastante guardar un nombre completo
 *Se me dificulta cuando hay que pasarle una estruct a una funcion 
 
+## Laboratorio 04
+
+### Observaciones al instructor
+*Estuvo bien que explicara sobre la recursion y registros
+*Se entendio bien las explicaciones con los ejercicios que realiza y vamos siguiendo
+*Hizo bien tambien practicar algunos ejercicios que podrian venir en el parcial y asi practicar 
+
