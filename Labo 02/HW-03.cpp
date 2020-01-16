@@ -21,7 +21,7 @@ int AccruedSalary(VendorData AcSalary);
 int main(){
 	//declaracion de variables
 	VendorData vendor;
-	int NumberVendor;
+	int NumberVendor, TotalSalary = 0;
 	
 	//pedimos numero de vendedores que ingresara
 	cout << "Numero de vendedores a ingresar: "; cin >> NumberVendor;
@@ -41,6 +41,8 @@ int main(){
 		cout << "Anos laborados: "; cin >> vendor.YearHired;
         cin.ignore();
 		
+        TotalSalary = AccruedSalary(vendor);
+
         NumberVendor--;
 
 	}while(NumberVendor > 0);
