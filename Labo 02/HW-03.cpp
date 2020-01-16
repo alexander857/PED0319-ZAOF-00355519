@@ -38,7 +38,7 @@ int main(){
 		
 		cout << "Salario mensual: "; cin >> vendor.salary;
 		
-		cout << "Anos laborados: "; cin >> vendor.YearHired;
+		cout << "Año en que fue contratado: "; cin >> vendor.YearHired;
         cin.ignore();
 		
         TotalSalary = AccruedSalary(vendor);
