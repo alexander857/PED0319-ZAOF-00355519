@@ -48,12 +48,6 @@ int main(){
 	}while(NumberVendor > 0);
 	
 
-	
-
-
-	
-	cout << vendor.name << endl;
-
 	return 0;	
 }
 
