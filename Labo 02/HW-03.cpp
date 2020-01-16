@@ -43,6 +43,8 @@ int main(){
 		
         TotalSalary = AccruedSalary(vendor);
 
+        cout << "El salario devengado en los años que lleva trabajando " << vendor.name << " es de: " << TotalSalary << endl;
+
         NumberVendor--;
 
 	}while(NumberVendor > 0);
