@@ -36,7 +36,9 @@ int main(){
 		
 		cout << "DUI: "; cin >> vendor.DUI;
 		
+		cout << "Salario mensual: "; cin >> vendor.salary;
 		
+		cout << "Anos laborados: "; cin >> vendor.YearHired;
 
 		
 //	}while(NumberVendor > 0);
