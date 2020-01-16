@@ -16,7 +16,7 @@ struct VendorData{
 
 void Data();
 
-//int AccruedSalary(VendorData AcSalary);
+int AccruedSalary(VendorData AcSalary);
 
 int main(){
 	//declaracion de variables
@@ -53,4 +53,17 @@ int main(){
 	cout << vendor.name << endl;
 
 	return 0;	
+}
+
+int AccruedSalary(VendorData AcSalary){
+	
+	int FinalSalary = 0, YearsWorked = 0, MonthsWorked = 0;
+	
+	YearsWorked = 2020 - AcSalary.YearHired;
+	
+	MonthsWorked = YearsWorked * 12;
+	
+	FinalSalary = AcSalary.salary * MonthsWorked;
+	
+	return FinalSalary;
 }
