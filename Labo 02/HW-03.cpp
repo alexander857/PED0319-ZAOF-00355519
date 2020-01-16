@@ -10,18 +10,19 @@ struct VendorData{
 	int DUI;
 	string name;
 	int YearHired;
-	int salary;
+	float salary;
 	
 };
 
 void Data();
 
-int AccruedSalary(VendorData AcSalary);
+float AccruedSalary(VendorData AcSalary);
 
 int main(){
 	//declaracion de variables
 	VendorData vendor;
-	int NumberVendor, TotalSalary = 0;
+	int NumberVendor;
+    float TotalSalary = 0;
 	
 	//pedimos numero de vendedores que ingresara
 	cout << "Numero de vendedores a ingresar: "; cin >> NumberVendor;
@@ -53,9 +54,10 @@ int main(){
 	return 0;	
 }
 
-int AccruedSalary(VendorData AcSalary){
+float AccruedSalary(VendorData AcSalary){
 	
-	int FinalSalary = 0, YearsWorked = 0, MonthsWorked = 0;
+	float FinalSalary = 0;
+    int YearsWorked = 0, MonthsWorked = 0;
 	
 	YearsWorked = 2020 - AcSalary.YearHired;
 	
