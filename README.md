@@ -51,4 +51,6 @@
 *Dio una idea de como debe de quedar el proyecto de la pizzeria finalmente
 
 ### Dificultades en ejercicios de tarea
-
+*El proceso de invertir un numero y hacerlo con recursion
+*Sobre el ejercicio de un arreglo de n registros, retornar un valor u otro dependiendo de una bandera se me dificulto un poco
+y hacerlo de forma recursiva
