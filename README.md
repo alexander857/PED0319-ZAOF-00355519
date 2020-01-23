@@ -55,8 +55,12 @@
 *Sobre el ejercicio de un arreglo de n registros, retornar un valor u otro dependiendo de una bandera se me dificulto un poco
 y hacerlo de forma recursiva
 
-##Laboratorio 05
+## Laboratorio 05
 
-##Observaciones al instructor
+### Observaciones al instructor
 *Se explico bien sobre como utilizar las pilas
 *Explico claramente las diferentes maneras de utilizar las pilas
+*Hizo ejercicios sobre como se usan las pilas y esta muy bien practicar con ejercicios
+
+### Dificultades en ejercicios de tarea
+*No he tenido muchas dificultades en el ejercicios sobre pilas
