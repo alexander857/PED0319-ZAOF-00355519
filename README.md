@@ -54,3 +54,9 @@
 *El proceso de invertir un numero y hacerlo con recursion
 *Sobre el ejercicio de un arreglo de n registros, retornar un valor u otro dependiendo de una bandera se me dificulto un poco
 y hacerlo de forma recursiva
+
+##Laboratorio 05
+
+##Observaciones al instructor
+*Se explico bien sobre como utilizar las pilas
+*Explico claramente las diferentes maneras de utilizar las pilas
