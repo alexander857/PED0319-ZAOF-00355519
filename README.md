@@ -64,3 +64,9 @@ y hacerlo de forma recursiva
 
 ### Dificultades en ejercicios de tarea
 *No he tenido muchas dificultades en el ejercicios sobre pilas
+
+## Laboratorio 06
+
+### Observaciones al instructor
+*Se explico claramente lo que son las listas
+*Estuvo entendible el ejercicio practico implementando las listas
