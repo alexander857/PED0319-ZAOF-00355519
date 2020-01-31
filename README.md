@@ -70,3 +70,10 @@ y hacerlo de forma recursiva
 ### Observaciones al instructor
 *Se explico claramente lo que son las listas
 *Estuvo entendible el ejercicio practico implementando las listas
+
+## Laboratorio 07
+
+### Observaciones al instructor
+*Explico algunos ejercicios del preparcial para repasar
+*Explico algunos temas sobre lo que saldrian en el parcial para estudiar
+*Explico un poco mas de listas con los punteros
