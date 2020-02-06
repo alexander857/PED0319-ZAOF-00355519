@@ -77,3 +77,12 @@ y hacerlo de forma recursiva
 *Explico algunos ejercicios del preparcial para repasar
 *Explico algunos temas sobre lo que saldrian en el parcial para estudiar
 *Explico un poco mas de listas con los punteros
+
+## Laboratorio 08
+
+### Observaciones al instructor
+*Explico un poco mas sobre arboles mas claramente
+*Realizo ejercicios sobre los tipos de recorridos de estos
+*Explico su uso con otros tipos de varibales como string y como ordenar las palabras
+
+### Dificultades en ejercicios de tarea
