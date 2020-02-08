@@ -86,3 +86,5 @@ y hacerlo de forma recursiva
 *Explico su uso con otros tipos de varibales como string y como ordenar las palabras
 
 ### Dificultades en ejercicios de tarea
+*Trabajar los punteros se me dificulto un poco para crear el arbol
+*Me fue dificil lo de almacenar datos de un registro en un arbol
